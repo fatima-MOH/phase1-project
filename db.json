@@ -1,0 +1,32 @@
+{
+  "pokemonData": [
+    {
+      "name": "Pikachu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png",
+      "description": "Pikachu is a yellow, mouse-like creature with electrical abilities.",
+      "likes": 10,
+      "id": 1
+    },
+    {
+      "name": "Eevee",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+      "description": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "likes": 3,
+      "id": 2
+    },
+    {
+      "name": "Squirtle",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "likes": 1,
+      "id": 3
+    },
+    {
+      "name": "Bulbasaur",
+      "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "likes": 2,
+      "id": 4
+    }
+  ]
+}

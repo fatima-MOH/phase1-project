@@ -1,0 +1,54 @@
+
+h1{
+    text-align: center;
+    
+}
+
+div{
+    width: 100%;
+    background-color:plum;
+}
+
+
+
+form {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  label,
+  input {
+   
+    display: inline-block;
+  }
+  
+  label {
+    width: 30%;
+    
+    text-align: right;
+  }
+  
+  label+input {
+    width: 30%;
+    
+    margin: 0 30% 0 4%;
+  }
+  
+  #btn {
+ float: right;
+margin-right: 700px;
+margin-top: 40px
+  }
+     
+
+  #description{
+      width: 30%;
+     text-align: right;
+     margin-left: 60px;
+     }
+
+     .cards{
+       width: 10%;
+       margin-left: 650px;
+       margin-top:150px;
+     }
